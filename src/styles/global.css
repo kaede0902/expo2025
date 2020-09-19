@@ -1,0 +1,16 @@
+* {
+  background: #000;
+  color: #fff;
+}
+.wrapper {
+  background: #aaa;
+  margin-right: auto;
+  margin-left: auto;
+
+  margin-top: 5%;
+  max-width: 960px;
+  min-height: 700px;
+
+  padding-right: 10px;
+  padding-left: 10px;
+}
