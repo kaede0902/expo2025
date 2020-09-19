@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/expo2025/static/css/main.5f361e03.chunk.css",
+    "main.js": "/expo2025/static/js/main.b94ebb85.chunk.js",
+    "main.js.map": "/expo2025/static/js/main.b94ebb85.chunk.js.map",
+    "runtime-main.js": "/expo2025/static/js/runtime-main.cd5702c5.js",
+    "runtime-main.js.map": "/expo2025/static/js/runtime-main.cd5702c5.js.map",
+    "static/js/2.0e381e2e.chunk.js": "/expo2025/static/js/2.0e381e2e.chunk.js",
+    "static/js/2.0e381e2e.chunk.js.map": "/expo2025/static/js/2.0e381e2e.chunk.js.map",
+    "index.html": "/expo2025/index.html",
+    "precache-manifest.0f56750c4e5cda47c1d51eec8d4ccb4d.js": "/expo2025/precache-manifest.0f56750c4e5cda47c1d51eec8d4ccb4d.js",
+    "service-worker.js": "/expo2025/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/expo2025/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0e381e2e.chunk.js.LICENSE.txt": "/expo2025/static/js/2.0e381e2e.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/expo2025/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd5702c5.js",
+    "static/js/2.0e381e2e.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b94ebb85.chunk.js"
+  ]
+}
