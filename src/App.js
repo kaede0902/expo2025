@@ -3,6 +3,7 @@ import './styles/global.css'
 import './styles/body.css'
 
 export default function App() {
+  document.title = `expo2025`;
   return (
     <div className="wrapper">
       wrapper area
