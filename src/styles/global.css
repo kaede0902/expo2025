@@ -3,12 +3,12 @@
   color: #fff;
 }
 .wrapper {
-  background: #aaa;
+  background: #111;
   margin-right: auto;
   margin-left: auto;
 
   margin-top: 5%;
-  max-width: 960px;
+  max-width: 300px;
   min-height: 700px;
 
   padding-right: 10px;
