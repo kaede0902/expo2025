@@ -1,0 +1,13 @@
+.MainMeat {
+  background: red;
+  position: absolute;
+  z-index: 1;
+  width: 70px;
+  height: 70px;
+  background: red;
+  border-radius: 100px;
+}
+.MainMeatOne {
+  left: 55%;
+  top: 10%;
+}
