@@ -1,4 +1,4 @@
-.blueEye {
+.BlueEye {
   position: absolute;
   z-index: 3;
   width: 15px;
@@ -6,7 +6,23 @@
   background: blue;
   border-radius: 100px;
 }
-.blueEyeOne {
-  left: 1070px;
-  top: 110px;
+.BlueEyeOne {
+  left: 55.2%;
+  top: 12%;
+}
+.BlueEyeTwo {
+  left: 62%;
+  top: 43%;
+}
+.BlueEyeThree {
+  left: 52%;
+  top: 48%;
+}
+.BlueEyeFour {
+  left: 14%;
+  top: 24%;
+}
+.BlueEyeFive {
+  left: 14%;
+  top: 29%;
 }
