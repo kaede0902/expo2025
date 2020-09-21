@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/expo2025/static/css/main.071fc2b1.chunk.css",
-    "main.js": "/expo2025/static/js/main.efa4421b.chunk.js",
-    "main.js.map": "/expo2025/static/js/main.efa4421b.chunk.js.map",
+    "main.css": "/expo2025/static/css/main.a56fe9a5.chunk.css",
+    "main.js": "/expo2025/static/js/main.a5cef2ca.chunk.js",
+    "main.js.map": "/expo2025/static/js/main.a5cef2ca.chunk.js.map",
     "runtime-main.js": "/expo2025/static/js/runtime-main.cd5702c5.js",
     "runtime-main.js.map": "/expo2025/static/js/runtime-main.cd5702c5.js.map",
     "static/js/2.6324f4b4.chunk.js": "/expo2025/static/js/2.6324f4b4.chunk.js",
     "static/js/2.6324f4b4.chunk.js.map": "/expo2025/static/js/2.6324f4b4.chunk.js.map",
     "index.html": "/expo2025/index.html",
-    "precache-manifest.708c1e128a78fd39c51d600152a2f7b5.js": "/expo2025/precache-manifest.708c1e128a78fd39c51d600152a2f7b5.js",
+    "precache-manifest.e1971475407dadb0a227ee84b731a189.js": "/expo2025/precache-manifest.e1971475407dadb0a227ee84b731a189.js",
     "service-worker.js": "/expo2025/service-worker.js",
-    "static/css/main.071fc2b1.chunk.css.map": "/expo2025/static/css/main.071fc2b1.chunk.css.map",
+    "static/css/main.a56fe9a5.chunk.css.map": "/expo2025/static/css/main.a56fe9a5.chunk.css.map",
     "static/js/2.6324f4b4.chunk.js.LICENSE.txt": "/expo2025/static/js/2.6324f4b4.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.cd5702c5.js",
     "static/js/2.6324f4b4.chunk.js",
-    "static/css/main.071fc2b1.chunk.css",
-    "static/js/main.efa4421b.chunk.js"
+    "static/css/main.a56fe9a5.chunk.css",
+    "static/js/main.a5cef2ca.chunk.js"
   ]
 }
